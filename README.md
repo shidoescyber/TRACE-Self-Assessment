@@ -42,4 +42,4 @@ License
 
 Free to use, share, and adapt with attribution. See LICENSE for details.
 
-Questions, feedback, or want help implementing TRACE at your org? Reach out via
+Questions, feedback, or want help implementing TRACE at your org? Open an issue or Reach out via linkedin.com/in/shikirrawilliams/
